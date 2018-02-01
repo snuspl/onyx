@@ -1,1 +1,3 @@
-This repo redirects onyx website to coral website
+# Coral
+
+## This project has been moved to https://snuspl.github.io/coral
