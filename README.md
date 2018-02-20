@@ -1,1 +1,1 @@
-This repo redirects onyx website to coral website
+This repo redirects onyx website to Apache Nemo website
