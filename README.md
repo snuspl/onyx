@@ -1,3 +1,3 @@
 # Apache Nemo
 
-## This project has been moved to [https://snuspl.github.io/nemo](https://snuspl.github.io/nemo)
+## This project has been moved to [http://nemo.apache.org](http://nemo.apache.org)
